@@ -42,7 +42,7 @@
 </details>
 
 ## 🚨 Notice
-The project is still under heavy development, so it will take some time to publish the first release (or beta release) of **d1loop**. The *planned release date* is 1st July 2023 (which may be delayed due to school projects and Bagruts tests I need to do). 
+The project is still under heavy development, so it will take some time to publish the first release (or beta release) of **d1loop**. The *planned release date* is 1st July 2023 (which may be delayed due to school projects and Bagruts tests I need to do). You can check out [my Twitter](https://twitter.com/1itsrn) to see previews for the app and updates.
 
 ## 🔍 About The Project
 Some time ago I looked at the Twitter app and thought about what would happen if I ever had an app similar to Twitter, but 100% anonymous and toxic-less (although some data is being collected, it's not emails or things like that), and that's how I got the idea to the d1loop app.
