@@ -101,7 +101,7 @@ Ron Nuss (Main developer) - [shalom@itsron.space](mailto:shalom@itsron.space), h
 ## 🙏 Acknowledgments
 Here is a list of websites\people I thank them for helping me create this project.
 
-* The name idea for the app is by Shirley Nuss.
+* The name idea for the app is by [Shirley Nuss](https://twitter.com/She_nuss).
 * Logo for d1loop is taken from Flaticon.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
