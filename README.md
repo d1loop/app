@@ -42,7 +42,7 @@
 </details>
 
 ## 🚨 Notice
-Currently, the project is still under heavy development, so it will take some time to publish the first release (or beta release) of **d1loop**. The *planned release date* is 1st July 2023 (which may be delayed due to school projects and Bagruts tests I need to do). 
+The project is still under heavy development, so it will take some time to publish the first release (or beta release) of **d1loop**. The *planned release date* is 1st July 2023 (which may be delayed due to school projects and Bagruts tests I need to do). 
 
 ## 🔍 About The Project
 Some time ago I looked at the Twitter app and thought about what would happen if I ever had an app similar to Twitter, but 100% anonymous and toxic-less (although some data is being collected, it's not emails or things like that), and that's how I got the idea to the d1loop app.
@@ -50,34 +50,35 @@ Some time ago I looked at the Twitter app and thought about what would happen if
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📩 Installing
-Choose the platform you want to download the app for.
+Choose the platform you want to download the app for:
 
 #### Android
 When the app will be released, you can download the `app-release.apk` file from the Releases tab. This app won't be released to the Google Play Store (Because of the ID photos I need to send them to verify me as a developer, on top of one time 25$ payment).
 
 #### iOS
-Currently, Apple requires me to pay up for a developer account to let iOS users install this app too. In the next few months, iOS 17 is going to be out, and Apple should make it able to install external applications outside of the App Store so it won't require me to pay 99$\year just to release this app for iOS users.
+Apple requires me to pay up for a developer account to let iOS users install this app too. In the next few months, iOS 17 is going to be out, and Apple should make it able to install external applications outside of the App Store so it won't require me to pay 99$\year just to release this app for iOS users.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🛣 Roadmap
 - [ ] UI
-  - [ ] Welcome screen (if no token locally)
+  - [x] Welcome screen (if no token locally)
   - [ ] Home interface
   - [ ] Official profile
   - [ ] Creating post interface
 - [ ] Database
   - [ ] Auto-delete posts every 24h
 - [ ] API
-  - [ ] Creating tokens (users) in the database
+  - [x] Creating tokens (users) in the database
+  - [ ] Fetching posts with token
   - [ ] Creating posts in the database. Authenticate using a token.
 
-Se the [open issues](https://github.com/d1loop/app/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/d1loop/app/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔮 Contributing
-If you have a suggestion that would make our app better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+If you have a suggestion to improve our app, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
