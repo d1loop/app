@@ -68,10 +68,10 @@ Apple requires me to pay up for a developer account to let iOS users install thi
   - [x] Creating post interface
 - [x] Database
   - [x] Auto-delete posts every 24h
-- [ ] API
+- [x] API
   - [x] Creating tokens (users) in the database
   - [x] Fetching posts with token
-  - [ ] Creating posts in the database. Authenticate using a token.
+  - [x] Creating posts in the database. Authenticate using a token.
 
 See the [open issues](https://github.com/d1loop/app/issues) for a full list of proposed features (and known issues).
 
