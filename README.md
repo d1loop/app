@@ -11,7 +11,7 @@
   <p align="center">
     Anonymous social networking app.
     <br />
-    <a href="https://github.com/d1loop/app"><strong>Explore the docs »</strong></a>
+    <a href="https://d1loop.github.io/docs/"><strong>Explore the docs (still being developed) »</strong></a>
     <br />
     <br />
     <a href="https://github.com/d1loop/app/issues">Report Bug</a>
