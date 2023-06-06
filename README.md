@@ -68,6 +68,7 @@ Apple requires me to pay up for a developer account to let iOS users install thi
   - [x] Creating post interface
 - [x] Database
   - [x] Auto-delete posts every 24h
+  - [x] Auto-censor bad words (https://github.com/d1loop/app/issues/2#issue-1744024812)
 - [x] API
   - [x] Creating tokens (users) in the database
   - [x] Fetching posts with token
@@ -101,6 +102,7 @@ Ron Nuss (Main developer) - [shalom@itsron.space](mailto:shalom@itsron.space), h
 ## 🙏 Acknowledgments
 Here is a list of websites\people I thank them for helping me create this project.
 
+* [@codeing123](https://github.com/codeing123) for the idea of filtering bad words and links in the app.
 * The name idea for the app is by [Shirley Nuss](https://twitter.com/She_nuss).
 * Logo for d1loop is taken from Flaticon.
 
