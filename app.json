@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "d1loop",
+    "slug": "d1loop",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/d1loop.png",
+    "extra": {
+      "eas": {
+        "projectId": "efbb9afb-d1fa-431b-9883-8c5e0f0840f7"
+      }
+    },
+    "android": {
+      "package": "com.itsron.d1loop"
+    }
+  }
+}
