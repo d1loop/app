@@ -42,7 +42,7 @@
 </details>
 
 ## 🚨 Notice
-The project is still under heavy development, so publishing the first release (or beta release) of **d1loop** will take some time. The *planned release date* is 1st July 2023 (which may be delayed due to school projects and Bagruts tests I need to do). You can check out [my Twitter](https://twitter.com/1itsrn) to see previews for the app and updates.
+The project is still under heavy development, so publishing the first release of **d1loop** will take some time. The *planned release date* is around 13-15 Tamuz (which may be delayed due to school projects I need to do). You can check out the [*pre-release* here](https://github.com/d1loop/app/releases/tag/v0.0.1-beta).
 
 ## 🔍 About The Project
 Some time ago I looked at the Twitter app and thought about what would happen if I ever had an app similar to Twitter, but 100% anonymous and toxic-less (although some data is being collected, it's not emails or things like that), and that's how I got the idea to the d1loop app.
@@ -53,7 +53,7 @@ Some time ago I looked at the Twitter app and thought about what would happen if
 Choose the platform you want to download the app for:
 
 #### Android
-When the app will be released, you can download the `app-release.apk` file from the Releases tab. This app won't be released to the Google Play Store (Because of the ID photos I need to send them to verify me as a developer, on top of one time 25$ payment).
+You can download the `app-release.apk` file from the [latest release](https://github.com/d1loop/app/releases/latest). This app won't be released to the Google Play Store (Because of the ID photos I need to send them to verify me as a developer, on top of one time 25$ payment).
 
 #### iOS
 Apple requires me to pay up for a developer account to let iOS users install this app too. In the next few months, iOS 17 is going to be out, and Apple should make it able to install external applications outside of the App Store so it won't require me to pay 99$\year just to release this app for iOS users.
@@ -102,7 +102,7 @@ Ron Nuss (Main developer) - [shalom@itsron.space](mailto:shalom@itsron.space), h
 ## 🙏 Acknowledgments
 Here is a list of websites\people I thank them for helping me create this project.
 
-* [@codeing123](https://github.com/codeing123) for the idea of filtering bad words and links in the app.
+* [@codeing123](https://github.com/codeing123) for the idea of filtering bad words and links in the app (https://github.com/d1loop/app/issues/2#issue-1744024812).
 * The name idea for the app is by [Shirley Nuss](https://twitter.com/She_nuss).
 * Logo for d1loop is taken from Flaticon.
 
