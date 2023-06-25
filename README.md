@@ -56,7 +56,7 @@ Choose the platform you want to download the app for:
 You can download the `app-release.apk` file from the [latest release](https://github.com/d1loop/app/releases/latest). This app won't be released to the Google Play Store (Because of the ID photos I need to send them to verify me as a developer, on top of one time 25$ payment).
 
 #### iOS
-Apple requires me to pay up for a developer account to let iOS users install this app too. In the next few months, iOS 17 is going to be out, and Apple should make it able to install external applications outside of the App Store so it won't require me to pay 99$\year just to release this app for iOS users.
+Unfortunately, Apple requires me to pay up for a developer account, to let iOS users install this app as well, or even just build a .ipa file to publish it through this Github repository. I'm looking for a solution to solve this but until then iOS is not supported.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
