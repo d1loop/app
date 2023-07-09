@@ -9,9 +9,11 @@
 <h3 align="center">d1loop</h3>
 
   <p align="center">
-    Anonymous social networking app.
+    A better-twitter social networking app.
     <br />
-    <a href="https://d1loop.vercel.app/"><strong>Explore the docs (still being developed) »</strong></a>
+    <a href="https://d1loop.vercel.app/"><strong>Visit d1loop »</strong></a>
+    <br />
+    <a href="https://d1loop-wiki.vercel.app/"><strong>Explore the wiki »</strong></a>
     <br />
     <br />
     <a href="https://github.com/d1loop/app/issues">Report Bug</a>
@@ -26,13 +28,6 @@
     <li>
       <a href="#-about-the-project">About The Project</a>
     </li>
-    <li>
-      <a href="#-installing">Installing</a>
-      <ul>
-        <li><a href="#android">Android</a></li>
-        <li><a href="#ios">iOS</a></li>
-      </ul>
-    </li>
     <li><a href="#-roadmap">Roadmap</a></li>
     <li><a href="#-contributing">Contributing</a></li>
     <li><a href="#-license">License</a></li>
@@ -42,37 +37,28 @@
 </details>
 
 ## 🚨 Notice
-The project is still under heavy development, so publishing the first release of **d1loop** will take some time. The *planned release date* is around 13-15 Tamuz (which may be delayed due to school projects I need to do). You can check out the [*pre-release* here](https://github.com/d1loop/app/releases/tag/v0.0.1-beta).
+The project has changed. I suggest you if you want to learn more about what happend and changed to go to [this part in the wiki](https://d1loop-wiki.vercel.app/docs/intro#-whats-changed).
 
 ## 🔍 About The Project
-Some time ago I looked at the Twitter app and thought about what would happen if I ever had an app similar to Twitter, but 100% anonymous and toxic-less (although some data is being collected, it's not emails or things like that), and that's how I got the idea to the d1loop app.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 📩 Installing
-Choose the platform you want to download the app for:
-
-#### Android
-You can download the `app-release.apk` file from the [latest release](https://github.com/d1loop/app/releases/latest). This app won't be released to the Google Play Store (Because of the ID photos I need to send them to verify me as a developer, on top of one time 25$ payment).
-
-#### iOS
-Unfortunately, Apple requires me to pay up for a developer account, to let iOS users install this app as well, or even just build a .ipa file to publish it through this Github repository. I'm looking for a solution to solve this but until then iOS is not supported.
+When you look at Twitter nowadays you can see that it is becoming pay-to-use. If you pay, you get access to a verified badge and 6000 posts\day, and if not you get a really tiny limit that can be reached easily. So I thought to myself, why won't I create a plaftorm that will be free-to-use, simple, *very* similar to Twitter's UI? that way users can enjoy the platform without worrying about limits or ads. Well, that answer to the question was d1loop.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🛣 Roadmap
-- [ ] UI
-  - [x] Welcome screen (if no token locally)
-  - [x] Home interface
-  - [ ] Official profile
-  - [x] Creating post interface
-- [x] Database
-  - [x] Auto-delete posts every 24h
-  - [x] Auto-censor bad words (https://github.com/d1loop/app/issues/2#issue-1744024812)
-- [x] API
-  - [x] Creating tokens (users) in the database
-  - [x] Fetching posts with token
-  - [x] Creating posts in the database. Authenticate using a token.
+  - [x] Welcome screen
+  - [x] Login screen
+  - [x] Home screen
+  - [x] Creating post modal
+  - [x] Pinning post to profile
+  - [x] Changing username modal
+  - [x] Customize profile modal
+  - [x] See likes, followers and following list
+  - [x] Change theme and main color
+  - [x] Tooltips for buttons
+  - [x] Tooltip of users when on desktop
+  - [x] Google authentication
+  - [ ] Bookmarks
+  - [ ] Verification program
 
 See the [open issues](https://github.com/d1loop/app/issues) for a full list of proposed features (and known issues).
 
@@ -102,8 +88,8 @@ Ron Nuss (Main developer) - [shalom@itsron.space](mailto:shalom@itsron.space), h
 ## 🙏 Acknowledgments
 Here is a list of websites\people I thank them for helping me create this project.
 
-* [@codeing123](https://github.com/codeing123) for the idea of filtering bad words and links in the app (https://github.com/d1loop/app/issues/2#issue-1744024812).
+* [@codeing123](https://github.com/codeing123) for the idea of filtering bad words and links in the app (https://github.com/d1loop/app/issues/2#issue-1744024812). This feature will be back in a few versions.
 * The name idea for the app is by [Shirley Nuss](https://twitter.com/She_nuss).
-* Logo for d1loop is taken from Flaticon.
+* The logo for d1loop is taken from Flaticon.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
