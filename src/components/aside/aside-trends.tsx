@@ -28,5 +28,7 @@ export function AsideTrends({ inTrendsPage }: AsideTrendsProps): JSX.Element {
 
   const { trends, location } = data ?? {};
 
-  return;
+  return (
+    <div></div>;
+  )
 }
