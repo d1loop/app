@@ -34,7 +34,7 @@ export function LoginMain(): JSX.Element {
             >
               By signing up, you agree to the{' '}
               <a
-                href='https://twitter.com/tos'
+                href='https://d1loop-wiki.vercel.app/terms-of-service'
                 target='_blank'
                 rel='noreferrer'
               >
@@ -42,7 +42,7 @@ export function LoginMain(): JSX.Element {
               </a>{' '}
               and{' '}
               <a
-                href='https://twitter.com/privacy'
+                href='https://d1loop-wiki.vercel.app/privacy-policy'
                 target='_blank'
                 rel='noreferrer'
               >

@@ -1,6 +1,7 @@
 const footerLinks = [
   ['Wiki', 'https://d1loop-wiki.vercel.app'],
-  ['Status', 'https://status.itsron.space'],
+  ['Privacy policy', 'https://d1loop-wiki.vercel.app/privacy-policy'],
+  ['Terms of Service', 'https://d1loop-wiki.vercel.app/terms-of-service'],
   ['Github', 'https://github.com/d1loop'],
 ] as const;
 

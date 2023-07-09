@@ -1,9 +1,8 @@
 const footerLinks = [
-  ['Terms of Service', 'https://twitter.com/tos'],
-  ['Privacy Policy', 'https://twitter.com/privacy'],
-  ['Cookie Policy', 'https://support.twitter.com/articles/20170514'],
-  ['Github', 'https://github.com/d1loop'],
   ['Wiki', 'https://d1loop-wiki.vercel.app'],
+  ['Privacy policy', 'https://d1loop-wiki.vercel.app/privacy-policy'],
+  ['Terms of Service', 'https://d1loop-wiki.vercel.app/terms-of-service'],
+  ['Github', 'https://github.com/d1loop'],
 ] as const;
 
 export function AsideFooter(): JSX.Element {
